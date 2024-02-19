@@ -6,10 +6,10 @@
 
 ### Extensiones recomendadas
 
--   Live server
--   Prettier
--   Git Graph
--   Git blame
+- Live server
+- Prettier
+- Git Graph
+- Git blame
 
 ## Node JS
 
